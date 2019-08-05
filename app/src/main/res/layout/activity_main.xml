@@ -28,6 +28,18 @@
                     android:text="@string/fish"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/textView4"/>
+            <TextView
+                    android:text="@string/animals_i_d_like_to_have_are"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/textView" android:textAlignment="center"/>
+            <TextView
+                    android:text="@string/bunnies"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/textView5"/>
+            <TextView
+                    android:text="@string/cats"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/textView6"/>
         </LinearLayout>
     </ScrollView>
 </LinearLayout>

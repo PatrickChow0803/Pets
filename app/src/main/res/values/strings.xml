@@ -3,4 +3,7 @@
     <string name="fish">Fish</string>
     <string name="dog">Dog</string>
     <string name="turtle">Turtle</string>
+    <string name="animals_i_d_like_to_have_are">Animals I\'d Like To Have Are</string>
+    <string name="bunnies">Bunnies</string>
+    <string name="cats">Cats</string>
 </resources>
